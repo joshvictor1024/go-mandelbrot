@@ -1,0 +1,4 @@
+*.exe
+
+# keeping SDL2.dll in root for convienience
+SDL2.dll
